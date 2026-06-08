@@ -1,1 +1,20 @@
-/.idea
+# Android & Gradle
+.gradle/
+build/
+*/build/
+.kotlin/
+
+# Android Studio
+.idea/
+*.iml
+
+local.properties
+
+*.apk
+*.aab
+
+.DS_Store
+Thumbs.db
+
+build_debug_apk.bat
+install_to_tablet.bat
