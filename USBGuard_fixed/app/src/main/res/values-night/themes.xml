@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.USBGuard" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:statusBarColor">#020617</item>
+        <item name="android:navigationBarColor">#020617</item>
+    </style>
+</resources>
